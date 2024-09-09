@@ -16,7 +16,7 @@ $ dtube
 
 ###  example :
 
-> ![Screenshot_2024-09-09_06-54-59](https://github.com/user-attachments/assets/d5218c79-360e-4b06-b0a4-9579df60ee02)
+> ![Screenshot_2024-09-09_07-11-30](https://github.com/user-attachments/assets/0841a337-abd7-4dc4-81e3-1a47062a53c4)
 
 
 
